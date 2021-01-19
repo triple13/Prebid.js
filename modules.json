@@ -29,5 +29,6 @@
   "adformBidAdapter",
   "adtargetBidAdapter",
   "eplanningBidAdapter",
-  "mediagoBidAdapter"
+  "mediagoBidAdapter",
+  "rhythmoneBidAdapter"
 ]
